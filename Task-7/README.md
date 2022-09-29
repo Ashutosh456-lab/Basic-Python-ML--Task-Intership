@@ -9,5 +9,6 @@ Extended MNIST (EMNIST) is a newer dataset developed and released by NIST to be 
 * Begin my neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN.
 * It has a very user-friendly interface that’s ideal for beginners.
 
-![minst](https://user-images.githubusercontent.com/59220036/193013145-61d02a0f-cb71-42e1-945b-2b8f0f654ab6.jpg)
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/59220036/193017858-87fc5061-8541-4b4d-9c76-ef3c0345169d.png">
+
 
