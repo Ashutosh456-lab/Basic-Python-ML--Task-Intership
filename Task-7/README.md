@@ -11,4 +11,6 @@ Extended MNIST (EMNIST) is a newer dataset developed and released by NIST to be 
 
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/59220036/193017858-87fc5061-8541-4b4d-9c76-ef3c0345169d.png">
 
+Dataset link : https://en.wikipedia.org/wiki/MNIST_database
+
 
